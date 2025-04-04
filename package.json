@@ -1,0 +1,19 @@
+{
+  "name": "randomrants-ws",
+  "version": "0.0.1",
+  "description": "Random Rants chatting server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "http": "^0.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
