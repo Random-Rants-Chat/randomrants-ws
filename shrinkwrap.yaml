@@ -1,0 +1,23 @@
+dependencies:
+  http: 0.0.0
+  ws: 8.18.0
+packages:
+  /http/0.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-epOGLlKUFT+yxfK9TqXRe7l6CbOk7mbLvzVqAyI05w0xIn+nXcYo0vR4ZBCVJYOyUglOFwtaIbD3d2TmG5ejJQ==
+  /ws/8.18.0:
+    dev: false
+    engines:
+      node: '>=10.0.0'
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: '>=5.0.2'
+    resolution:
+      integrity: sha512-8VbfWfHLbbwu3+N6OKsOMpBdT4kXPDDB9cJk2bJ6mh9ucxdlnNvH1e+roYkKmN9Nxw2yjz7VzeO9oOz2zJ04Pw==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  http: ^0.0.0
+  ws: ^8.18.0
